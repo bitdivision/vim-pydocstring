@@ -1,5 +1,4 @@
 """
-{{_lf_}}
 {{_indent_}}Args:
 {{_indent_}}{{_args_}}:
 
